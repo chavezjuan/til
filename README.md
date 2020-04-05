@@ -58,10 +58,3 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 
 Essa ideia foi inspirada pelo repositório
 [jbranchaud/til](https://github.com/jbranchaud/til).
-
-## License
-
-&copy; 2020-2020 Juan Chavez
-
-This repository is licensed under the MIT license. See `LICENSE` for
-details.

@@ -13,20 +13,22 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 ---
 
 ### Categorias
-
+* [NodeJS](#nodejs)
+* [JavaScript](#javascript)
+* [React](#react)
+* [React Native](#react-native)
 * [CSS](#css)
 * [Git](#git)
 * [HTML](#html)
-* [JavaScript](#javascript)
 * [Linux](#linux)
 * [MySQL](#mysql)
 * [Rails](#rails)
-* [React](#react)
-* [React Native](#react-native)
 * [Ruby](#ruby)
 * [VSCode](#vscode)
 
 ---
+
+### NodeJS
 
 ### CSS
 

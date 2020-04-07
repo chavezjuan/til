@@ -39,7 +39,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 ### HTML
 
 ### JavaScript
-
+- [Usando operador ternário para simplificar o código](Javascript/operador_ternario.md)
 ### Linux
 
 ### MySQL

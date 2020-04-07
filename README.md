@@ -33,7 +33,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 ### JavaScript
 - [Usando operador ternário para simplificar o código](Javascript/operador_ternario.md)
 - [Short-circuit evaluation na atribuição de valores à variáveis](Javascript/operador_logico_atribuicao.md)
-- [Formas de utilizar a Arrow Function para fatorar o código]()
+- [Formas de utilizar a Arrow Function para fatorar o código](Javascript/arrow_function_formas.md)
 
 ### CSS
 

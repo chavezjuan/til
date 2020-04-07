@@ -30,6 +30,11 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 
 ### NodeJS
 
+### JavaScript
+- [Usando operador ternário para simplificar o código](Javascript/operador_ternario.md)
+- [Short-circuit evaluation na atribuição de valores à variáveis](Javascript/operador_logico_atribuicao.md)
+- [Formas de utilizar a Arrow Function para fatorar o código]()
+
 ### CSS
 
 - [Add Fab Icons To Your Site With FontAwesome 5](css/add-fab-icons-to-your-site-with-fontawesome-5.md)
@@ -38,8 +43,6 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 
 ### HTML
 
-### JavaScript
-- [Usando operador ternário para simplificar o código](Javascript/operador_ternario.md)
 ### Linux
 
 ### MySQL

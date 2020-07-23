@@ -106,4 +106,4 @@ class Quarto
 ```
 Uma vez que definimos as Propriedades, não acessamos diretamente os Campos para definir o seu valor mas através da Propriedade correspondente.
 <br>
-Podemos observar que as estruturas descritas são muito parecidas entre si, mas cada uma tem um papel bem epecífico dentro de uma classe. Os Construtores são estruturas que podemos definir dentro de uma classe e que possui uma sintaxe bem paraecida com o que vimos. Isso iremos aboradar em outro tópico.
+Podemos observar que as estruturas descritas são muito parecidas entre si, mas cada uma tem um papel bem epecífico dentro de uma classe. Os Construtores são estruturas que podemos definir dentro de uma classe e que possui uma sintaxe bem parecida com o que vimos. Isso iremos abordar em outro tópico.

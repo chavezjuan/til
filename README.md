@@ -13,6 +13,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 ---
 
 ### Categorias
+* [C#](#c#)
 * [NodeJS](#nodejs)
 * [JavaScript](#javascript)
 * [React](#react)
@@ -27,7 +28,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 * [VSCode](#vscode)
 
 ---
-
+### C#
 ### NodeJS
 
 ### JavaScript

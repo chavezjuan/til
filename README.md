@@ -13,7 +13,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 ---
 
 ### Categorias
-* [C#](#c#)
+* [C#](#'c#')
 * [NodeJS](#nodejs)
 * [JavaScript](#javascript)
 * [React](#react)

@@ -14,41 +14,43 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 
 ### Categorias
 * [Csharp](#csharp)
-* [NodeJS](#nodejs)
 * [JavaScript](#javascript)
+* [GIT](#git)
+* [MySQL](#mysql)
+* [Python](#python)
+* [HTML](#html)
+* [CSS](#css)
 * [React](#react)
 * [React Native](#react-native)
-* [CSS](#css)
-* [GIT](#git)
-* [HTML](#html)
 * [Linux](#linux)
-* [MySQL](#mysql)
 * [Rails](#rails)
 * [Ruby](#ruby)
+* [NodeJS](#nodejs)
 * [VSCode](#vscode)
 
 ---
 ### Csharp
 - [Classes, campos, propriedades e métodos](Csharp/classe_propriedades_campos.md)
-### NodeJS
 
 ### JavaScript
 - [Usando operador ternário para simplificar o código](Javascript/operador_ternario.md)
 - [Short-circuit evaluation na atribuição de valores à variáveis](Javascript/operador_logico_atribuicao.md)
 - [Formas de utilizar a Arrow Function para fatorar o código](Javascript/arrow_function_formas.md)
 
+### GIT
+- [Como configurar o seu repositório local rapidamente e fazer o seu primeiro commit pela linha de comando](GIT/iniciar_repositorio_commit.md)
+
+### MySQL
+
+### Python
+
+### HTML
+
 ### CSS
 
 - [Add Fab Icons To Your Site With FontAwesome 5](css/add-fab-icons-to-your-site-with-fontawesome-5.md)
 
-### GIT
-- [Como configurar o seu repositório local rapidamente e fazer o seu primeiro commit pela linha de comando](GIT/iniciar_repositorio_commit.md)
-
-### HTML
-
 ### Linux
-
-### MySQL
 
 ### Rails
 
@@ -57,6 +59,8 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 ### React Native
 
 ### Ruby
+
+### NodeJS
 
 ### VSCode
 

@@ -13,7 +13,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 ---
 
 ### Categorias
-* [C#](#'c#')
+* [Csharp](#csharp)
 * [NodeJS](#nodejs)
 * [JavaScript](#javascript)
 * [React](#react)
@@ -28,7 +28,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 * [VSCode](#vscode)
 
 ---
-### C#
+### Csharp
 ### NodeJS
 
 ### JavaScript

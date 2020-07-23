@@ -19,7 +19,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 * [React](#react)
 * [React Native](#react-native)
 * [CSS](#css)
-* [Git](#git)
+* [GIT](#git)
 * [HTML](#html)
 * [Linux](#linux)
 * [MySQL](#mysql)
@@ -41,7 +41,8 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 
 - [Add Fab Icons To Your Site With FontAwesome 5](css/add-fab-icons-to-your-site-with-fontawesome-5.md)
 
-### Git
+### GIT
+- [Como configurar o seu repositório local rapidamente e fazer o seu primeiro commit pela linha de comando](GIT/iniciar_repositorio_commit.md)
 
 ### HTML
 

@@ -21,13 +21,13 @@ Por sua vez as Propriedades (*Properties*) são uma forma de definirmos quais va
 ```c#
 class Quarto 
 {
-  #Campos
+  //Campos
   public string cama;
   public int janela;
   public int ventilador;
   public bool arcondicionado;
 
-  #Propriedades
+  //Propriedades
   public string Cama
   {
       get { return name; }
@@ -59,13 +59,13 @@ Por fim chegamos aos Métodos (*Methods*). Os Métodos definem como uma instânc
 ```c#
 class Quarto 
 {
-  #Campos
+  //Campos
   public string cama;
   public int janela;
   public int ventilador;
   public bool arcondicionado;
 
-  #Propriedades
+  //Propriedades
   public string Cama
   {
       get { return name; }
@@ -90,7 +90,7 @@ class Quarto
       set { arcondicionado = value; }
   }
   
-  #Métodos
+  //Métodos
   public bool ligarArcondicionado()
   {
       Arcondicionado = true;

@@ -31,6 +31,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 ---
 ### Csharp
 - [Classes, campos, propriedades e métodos](Csharp/classe_propriedades_campos.md)
+- [Campos e propriedades estáticos](Csharp/metodo_estatico_campos_prop.md)
 
 ### JavaScript
 - [Usando operador ternário para simplificar o código](Javascript/operador_ternario.md)

@@ -4,7 +4,7 @@
 
 <p>Trata-se de uma coleção de pequenos trechos de código e pequenas coisas que tenho aprendido dia a dia
 em uma variedade de linguagens e tecnologias.</p>
-<p>Logo abaixo segue um índice com as tecnologias estudadas. Uma vez clicando na tecnologia, será redirecionado
+<p>Logo abaixo segue um índice com as tecnologias estudadas. Uma vez clicando na tecnologia será redirecionado
 para os assuntos estudados na determinada área.</p>
 
 > <i>Eu ainda estou adicionando nesse repositório os conteúdos estudados que estão espalhados nas pastas do meu PC. Por isso

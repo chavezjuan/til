@@ -16,6 +16,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 * [Csharp](#csharp)
 * [JavaScript](#javascript)
 * [GIT](#git)
+* [Windows Scripts](#windows)
 * [MySQL](#mysql)
 * [Python](#python)
 * [HTML](#html)
@@ -41,6 +42,9 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 ### GIT
 - [Como configurar o seu repositório local rapidamente e fazer o seu primeiro commit pela linha de comando](GIT/iniciar_repositorio_commit.md)
 - [Erro: Refusing to merge unrelated histories](GIT/erro_unrelated_histories.md)
+
+### Windows Scripts
+- []
 
 ### MySQL
 

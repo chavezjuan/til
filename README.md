@@ -4,7 +4,7 @@
 
 <p>Trata-se de uma coleção de pequenos trechos de código e pequenas coisas que tenho aprendido dia a dia
 em uma variedade de linguagens e tecnologias.</p>
-<p>Logo abaixo segue um índice com as tecnologias estudadas. Uma vez clicando na tecnologia, será redirecionado
+<p>Logo abaixo segue um índice com as tecnologias estudadas. Uma vez clicando na tecnologia será redirecionado
 para os assuntos estudados na determinada área.</p>
 
 > <i>Eu ainda estou adicionando nesse repositório os conteúdos estudados que estão espalhados nas pastas do meu PC. Por isso
@@ -31,6 +31,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 ---
 ### Csharp
 - [Classes, campos, propriedades e métodos](Csharp/classe_propriedades_campos.md)
+- [Campos e propriedades estáticos](Csharp/metodo_estatico_campos_prop.md)
 
 ### JavaScript
 - [Usando operador ternário para simplificar o código](Javascript/operador_ternario.md)
@@ -39,6 +40,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 
 ### GIT
 - [Como configurar o seu repositório local rapidamente e fazer o seu primeiro commit pela linha de comando](GIT/iniciar_repositorio_commit.md)
+- [Erro: Refusing to merge unrelated histories](GIT/erro_unrelated_histories.md)
 
 ### MySQL
 

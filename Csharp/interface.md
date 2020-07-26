@@ -1,0 +1,2 @@
+# Interfaces
+É um conjunto de ações e valores que descrevem como uma classe pode ser utilizada. Isso já é feito pelo próprio computador quando tentamos declarar um inteiro `int` como `string` por exemplo. Nesse caso é reconhecido a incompatibilidade e um erro é mostrado. Mas para as nossas classes criadas isso não é trivial para o sistema. Precisamos ensiná-lo que a nossa classe espera certos tipos de métodos e propriedades. Para tal utilizamos as Interfaces nos ajudando a previnir diversos erros.

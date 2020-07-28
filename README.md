@@ -16,6 +16,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 * [Csharp](#csharp)
 * [JavaScript](#javascript)
 * [GIT](#git)
+* [Windows Scripts](#windows-scripts)
 * [MySQL](#mysql)
 * [Python](#python)
 * [HTML](#html)
@@ -41,6 +42,12 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 ### GIT
 - [Como configurar o seu repositório local rapidamente e fazer o seu primeiro commit pela linha de comando](GIT/iniciar_repositorio_commit.md)
 - [Erro: Refusing to merge unrelated histories](GIT/erro_unrelated_histories.md)
+
+### Windows Scripts
+- [Reinciando a máquina remotamente via IP](Windows%20scripts/reniciar_maquina.md)
+- [Como saber o serial number da sua máquina](Windows%20scripts/serialnumber.md)
+- [Como rastrear a rota de um pacote pela rede usando TRACERT](Windows%20scripts/tracert.md)
+- [Situação da senha, configurações do usuário no Active Directory](Windows%20scripts/user_status.md)
 
 ### MySQL
 

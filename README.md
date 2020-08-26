@@ -14,7 +14,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 
 ### Categorias
 * [Csharp](#csharp)
-* [Algoritmo e Estrutura de Dados em C#](#Algoritmo-e-Estrutura-de-Dados-em-C#)
+* [Algoritmo e Estrutura de Dados em C#](#Algoritmo-e-Estrutura-de-Dados-em-C)
 * [JavaScript](#javascript)
 * [GIT](#git)
 * [Windows Scripts](#windows-scripts)

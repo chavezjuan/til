@@ -14,7 +14,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 
 ### Categorias
 * [Csharp](#csharp)
-* [Algoritmo e Estrutura de Dados em C#](#Algoritmo&#32;e&#32;Estrutura&#32;de&#32;Dados&#32;em&#32;C#)
+* [Algoritmo e Estrutura de Dados em C#](#Algoritmo-e-Estrutura-de-Dados-em-C#)
 * [JavaScript](#javascript)
 * [GIT](#git)
 * [Windows Scripts](#windows-scripts)
@@ -38,7 +38,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 - [Como realizar uma limpeza de cache utilizando o Selenium](Csharp/selenium_limpeza_cache.md)
 - [Como rodar o programa .cs no CLI](Csharp/rodar_cli.md)
 
-### Algoritmo&#32;e&#32;Estrutura&#32;de&#32;Dados&#32;em&#32;C#
+### Algoritmo e Estrutura de Dados em C#
 - [Implementação do List<>](Algoritmo%20e%20Estrutura%20de%20Dados/list.md)
 
 ### JavaScript

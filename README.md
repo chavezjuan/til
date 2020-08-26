@@ -52,6 +52,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 - [Situação da senha, configurações do usuário no Active Directory](Windows%20scripts/user_status.md)
 
 ### MySQL
+- [Como resetar a contagem do ID em uma tabela habilitada para auto incremento](MySQL/resetar_id.md)
 
 ### Python
 

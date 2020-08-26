@@ -34,6 +34,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 - [Classes, campos, propriedades e métodos](Csharp/classe_propriedades_campos.md)
 - [Campos e propriedades estáticos](Csharp/metodo_estatico_campos_prop.md)
 - [Interfaces](Csharp/interface.md)
+- [Como realizar uma limpeza de cache utilizando o Selenium](Csharp/selenium_limpeza_cache.md)
 
 ### JavaScript
 - [Usando operador ternário para simplificar o código](Javascript/operador_ternario.md)

@@ -14,6 +14,7 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 
 ### Categorias
 * [Csharp](#csharp)
+* [Algoritmo e Estrutura de Dados em C#](#Algoritmo-e-Estrutura-de-Dados-em-C)
 * [JavaScript](#javascript)
 * [GIT](#git)
 * [Windows Scripts](#windows-scripts)
@@ -35,6 +36,10 @@ poderá encontrar alguns assuntos sem conteúdo ainda .... aguarde! :) </i>
 - [Campos e propriedades estáticos](Csharp/metodo_estatico_campos_prop.md)
 - [Interfaces](Csharp/interface.md)
 - [Como realizar uma limpeza de cache utilizando o Selenium](Csharp/selenium_limpeza_cache.md)
+- [Como rodar o programa .cs no CLI](Csharp/rodar_cli.md)
+
+### Algoritmo e Estrutura de Dados em C#
+- [Implementação do List<>](Algoritmo%20e%20Estrutura%20de%20Dados/list.md)
 
 ### JavaScript
 - [Usando operador ternário para simplificar o código](Javascript/operador_ternario.md)
